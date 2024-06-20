@@ -9,7 +9,9 @@ Installation de Json server et creation de la DB json :
 
 Ajout des functions pour handle check et handle Delete pour faire des modifications dans le backend et le front end:
 ![Capture d'écran 2024-06-20 094812](https://github.com/a-alhaouil/TP4__SD/assets/152272492/962fd20d-f968-4963-b652-bb60093aa6ed)
+
 Après delete :
+
 ![Capture d'écran 2024-06-20 094831](https://github.com/a-alhaouil/TP4__SD/assets/152272492/573ea443-f869-4452-ab6a-f7da68e74a59)
 
 ajouter d'un produit:
