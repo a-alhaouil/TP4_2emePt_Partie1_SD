@@ -1,4 +1,8 @@
-# 2emePartiePart1
+# 2eme Partie -> Part1
+
+### Deuxième Partie :
+#### Créer une application web Angular qui permet de gérer des produits avec un backend basé sur Json-server
+#### Part 1- https://www.youtube.com/watch?v=Bq-vewCZk-o
 
 Ajout des produits et handleCheckProduct function :
 ![Capture d'écran 2024-06-19 061940](https://github.com/a-alhaouil/TP4__SD/assets/152272492/60f39fd7-c214-4e20-aa30-5dce8eb72586)
